@@ -8,3 +8,6 @@ The commands of git
 
 3. git restore --staged <file_name>
 -> doing this ur particular file moves back to file system from staging area.
+
+4. git -commit -m "mssg"
+->changes commmited!!
