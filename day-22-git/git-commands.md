@@ -10,4 +10,11 @@ The commands of git
 -> doing this ur particular file moves back to file system from staging area.
 
 4. git -commit -m "mssg"
-->changes commmited!!
+->changes commmited!
+
+5. git status 
+-> to check the status of the git 
+
+6. git log 
+-> check all the logs 
+
